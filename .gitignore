@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Packages
+/Library
+/Logs
+/PosePlus_1.0.sln
+/.idea
+/Logs
+/obj
+/Packages
+/Temp
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
